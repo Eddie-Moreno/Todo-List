@@ -4,13 +4,14 @@ body{
 }
 
 .title{
-    /* font-family: Oxygen; */
     display: flex;
     justify-content: center;
-    font-style: normal;
-    font-weight: 400;
     font-size: 32px;
-    line-height: 81px;
-
     color: #FF0000;
+    
+}
+
+.line{
+    border-top: lightskyblue 7px solid;
+    margin-bottom: 50px;
 }
